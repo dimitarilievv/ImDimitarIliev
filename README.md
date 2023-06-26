@@ -1,2 +1,2 @@
-# ImDimitarIliev.github.io
+# ImDimitarIliev
 This is my personal Website!
